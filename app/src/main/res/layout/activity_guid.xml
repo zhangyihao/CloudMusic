@@ -1,41 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <LinearLayout
-        android:id="@+id/activity_guid_linelayout01"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical">
         <android.support.v4.view.ViewPager
             android:id="@+id/activity_guid_viewpager"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="match_parent">
 
         </android.support.v4.view.ViewPager>
-    </LinearLayout>
 
     <LinearLayout
-        android:id="@+id/activity_guid_linelayout02"
-        android:layout_width="match_parent"
+        android:id="@+id/activity_guid_dots"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:orientation="vertical">
+        android:orientation="horizontal"
+        android:layout_marginBottom="24dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true">
 
-        <RelativeLayout
-            android:layout_width="match_parent"
+        <ImageView
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:orientation="vertical">
-        <LinearLayout
-            android:id="@+id/activity_guid_viewgroup"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="40dp"
-            android:gravity="center_horizontal"
-            android:orientation="horizontal">
+            android:layout_gravity="center_horizontal"
+            android:clickable="true"
+            android:padding="15dp"
+            android:src="@mipmap/dot_white_trans"/>
 
-        </LinearLayout>
-        </RelativeLayout>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:clickable="true"
+            android:padding="15dp"
+            android:src="@mipmap/dot_white_trans"/>
+
     </LinearLayout>
 
-</FrameLayout>
+</RelativeLayout>
