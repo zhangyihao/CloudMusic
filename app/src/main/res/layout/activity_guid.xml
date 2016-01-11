@@ -3,37 +3,60 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-        <android.support.v4.view.ViewPager
-            android:id="@+id/activity_guid_viewpager"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
+    <android.support.v4.view.ViewPager
+        android:id="@+id/activity_guid_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
-        </android.support.v4.view.ViewPager>
+    </android.support.v4.view.ViewPager>
 
     <LinearLayout
-        android:id="@+id/activity_guid_dots"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:layout_marginBottom="24dp"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true">
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="24dp"
+        android:orientation="vertical">
 
-        <ImageView
+        <LinearLayout
+            android:id="@+id/activity_guid_dots"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:clickable="true"
-            android:padding="15dp"
-            android:src="@mipmap/dot_white_trans"/>
+            android:layout_gravity="center_horizontal">
 
-        <ImageView
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:clickable="true"
+                android:padding="15dp"
+                android:src="@drawable/guid_dot" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:clickable="true"
+                android:padding="15dp"
+                android:src="@drawable/guid_dot" />
+        </LinearLayout>
+
+        <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:clickable="true"
-            android:padding="15dp"
-            android:src="@mipmap/dot_white_trans"/>
+            android:padding="5dp"
+            android:orientation="horizontal">
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="100dp"
+                android:text="@string/activity_guid_login"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/activity_guid_gointo"/>
+        </LinearLayout>
+
 
     </LinearLayout>
 

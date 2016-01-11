@@ -16,7 +16,7 @@ public class GuidActivity extends BaseActivity implements View.OnClickListener, 
 
     private ViewPager mViewpager;
     private GuidePageAdapter mViewpagerAdapter;
-    private List<View> mPageViews;
+    private List<View> mPageViews; // 存放Viewpager中各View
 
     private static final int[] pics = {R.mipmap.start_i0, R.mipmap.start_i1};
     private ImageView[] mDotsImageViews;
@@ -35,6 +35,7 @@ public class GuidActivity extends BaseActivity implements View.OnClickListener, 
             ImageView vi = new ImageView(GuidActivity.this);
             vi.setLayoutParams(layoutParams);
             vi.setImageResource(pics[i]);
+            vi.setScaleType(ImageView.ScaleType.FIT_XY);
             mPageViews.add(vi);
         }
         mViewpager = (ViewPager) findViewById(R.id.activity_guid_viewpager);
