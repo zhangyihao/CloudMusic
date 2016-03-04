@@ -1,4 +1,4 @@
-package com.zhangyihao.cloudmusic.com.zhangyihao.cloudmusic.util;
+package com.zhangyihao.cloudmusic.util;
 
 import android.util.Log;
 
