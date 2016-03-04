@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CloudMusic</string>
+    <string name="title_activity_guid">GuidActivity</string>
+
+    <string name="activity_guid_login">登陆/注册</string>
+    <string name="activity_guid_gointo">体验</string>
 </resources>
