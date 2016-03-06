@@ -11,8 +11,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/libs" />
-            <option value="$PROJECT_DIR$/libs/CastCompanionLibrary" />
+            <option value="$PROJECT_DIR$/extras" />
+            <option value="$PROJECT_DIR$/extras/CastCompanionLibrary" />
           </set>
         </option>
       </GradleProjectSettings>

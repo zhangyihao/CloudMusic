@@ -1,0 +1,890 @@
+[
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_stop_circle_white_80dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_stop_circle_white_80dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_playlist_grey_24dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_playlist_grey_24dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_bluetooth_grey.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_bluetooth_grey.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_av_play_over_video.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_av_play_over_video.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/cast_ic_notification_on.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/res/drawable-hdpi/cast_ic_notification_on.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_playlist_black_24dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_playlist_black_24dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_cast_on_light.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_cast_on_light.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_audiotrack.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_audiotrack.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pause_circle_white_80dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_pause_circle_white_80dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_drag_updown_white_24dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_drag_updown_white_24dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_skip_previous_grey600_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_skip_previous_grey600_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_media_route_on_mono_dark.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_media_route_on_mono_dark.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_device_access_volume_muted.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_device_access_volume_muted.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pause_white_24dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_pause_white_24dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_stop_grey600_36dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_stop_grey600_36dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_selectall_material.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/generated/res/pngs/release/drawable-hdpi/abc_ic_menu_selectall_material.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/mini_bg.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/mini_bg.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pause_light.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_pause_light.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_play_dark.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_play_dark.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_closed_caption_grey600_36dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_closed_caption_grey600_36dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_shuffle_grey600_36dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_shuffle_grey600_36dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_closed_caption_white_24dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_closed_caption_white_24dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_media_route_on_1_mono_dark.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_media_route_on_1_mono_dark.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_stop_white_36dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_stop_white_36dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_closed_caption_grey600_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_closed_caption_grey600_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_closed_caption_grey.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_closed_caption_grey.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_tv_dark.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_tv_dark.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_cast_dark.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_cast_dark.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pause_grey600_36dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_pause_grey600_36dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_play_circle_white_64dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_play_circle_white_64dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_repeat_one_grey600_36dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_repeat_one_grey600_36dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_stop_grey600_24dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_stop_grey600_24dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pause_dark.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_pause_dark.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_ab_back_material.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/generated/res/pngs/release/drawable-hdpi/abc_ic_ab_back_material.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_skip_next_white_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_skip_next_white_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_full_open_on_phone.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_stat_action_notification.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_stat_action_notification.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_repeat_white_36dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_repeat_white_36dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_skip_previous_white_semi_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_skip_previous_white_semi_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_media_play.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_media_play.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_replay_30_white_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_replay_30_white_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_stat_action_democast.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_stat_action_democast.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_stop_black_36dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_stop_black_36dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_drag_updown_grey_24dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_drag_updown_grey_24dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_stop_white_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_stop_white_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_av_stop_sm_light.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_av_stop_sm_light.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_replay_white_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_replay_white_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_share_material.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/generated/res/pngs/release/drawable-hdpi/abc_ic_menu_share_material.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_stop_white_18dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_stop_white_18dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_av_stop_sm_dark.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_av_stop_sm_dark.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_tv_light.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_tv_light.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_media_route_on_0_mono_dark.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_media_route_on_0_mono_dark.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_play_light.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_play_light.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_av_play_dark.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_av_play_dark.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_speaker_light.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_speaker_light.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/cast_ic_notification_2.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/res/drawable-hdpi/cast_ic_notification_2.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_media_pause.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_media_pause.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_av_stop.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_av_stop.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_paste_material.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/generated/res/pngs/release/drawable-hdpi/abc_ic_menu_paste_material.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_cast_white.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_cast_white.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_ic_googleplayservices.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/cast_ic_notification_0.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/res/drawable-hdpi/cast_ic_notification_0.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_play_arrow_white_36dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_play_arrow_white_36dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_clear_black_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_clear_black_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_play_arrow_grey600_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_play_arrow_grey600_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_av_play_light.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_av_play_light.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_bluetooth_white.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_bluetooth_white.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_cast_on_0_light.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_cast_on_0_light.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pause_grey600_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_pause_grey600_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_av_stop_dark.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_av_stop_dark.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_stat_content_remove.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_stat_content_remove.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_play_arrow_black_24dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_play_arrow_black_24dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_cast_off_light.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_cast_off_light.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_audiotrack_light.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_audiotrack_light.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_av_play_over_video_large.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_av_play_over_video_large.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_av_play.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_av_play.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_close_light.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_close_light.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_skip_next_grey600_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_skip_next_grey600_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_close_dark.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_close_dark.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_remove_circle_white_24dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_remove_circle_white_24dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_skip_next_white_36dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_skip_next_white_36dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_speaker_group_light.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_speaker_group_light.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_closed_caption_white_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_closed_caption_white_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_av_pause.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_av_pause.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_repeat_one_white_36dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_repeat_one_white_36dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_closed_caption_googblue_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_closed_caption_googblue_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_play_arrow_googblue_36dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_play_arrow_googblue_36dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_av_close_sm_dark.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_av_close_sm_dark.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_play_circle_white_80dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_play_circle_white_80dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_av_stop_light.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_av_stop_light.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_checkbox_checked_mtrl.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/generated/res/pngs/release/drawable-hdpi/abc_btn_checkbox_checked_mtrl.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_clear_black_24dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_clear_black_24dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_av_pause_over_video_large.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_av_pause_over_video_large.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_clear_white_24dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_device_access_volume_on.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_device_access_volume_on.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_voice_search_api_material.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/generated/res/pngs/release/drawable-hdpi/abc_ic_voice_search_api_material.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pause_circle_grey_80dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_pause_circle_grey_80dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pause_white_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_pause_white_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_av_play_sm_dark.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_av_play_sm_dark.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_av_pause_over_video.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_av_pause_over_video.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_closed_caption_googblue_24dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_closed_caption_googblue_24dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_play_circle_grey_80dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_play_circle_grey_80dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_checkbox_unchecked_mtrl.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/generated/res/pngs/release/drawable-hdpi/abc_btn_checkbox_unchecked_mtrl.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_cast_light.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_cast_light.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_av_pause_light.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_av_pause_light.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_cast_disabled_light.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_copy_material.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/generated/res/pngs/release/drawable-hdpi/abc_ic_menu_copy_material.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_closed_caption_white.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_closed_caption_white.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_skip_next_white_semi_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_skip_next_white_semi_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_closed_caption_white_36dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_closed_caption_white_36dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_closed_caption_blue.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_closed_caption_blue.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_play_arrow_white_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_play_arrow_white_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_speaker_dark.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_speaker_dark.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pause_black_36dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_pause_black_36dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_av_pause_dark.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_av_pause_dark.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_av_pause_sm_dark.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_av_pause_sm_dark.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_speaker_group_dark.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_speaker_group_dark.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_radio_on_mtrl.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/generated/res/pngs/release/drawable-hdpi/abc_btn_radio_on_mtrl.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_play_arrow_white_24dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_play_arrow_white_24dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_cast_grey.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_cast_grey.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/cast_ic_notification_1.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/res/drawable-hdpi/cast_ic_notification_1.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_play_arrow_grey600_24dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_play_arrow_grey600_24dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_skip_previous_white_36dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_skip_previous_white_36dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pause_black_24dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_pause_black_24dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_skip_next_grey300_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_skip_next_grey300_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_clear_white_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_clear_white_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_cast_on_1_light.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_cast_on_1_light.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_play_arrow_black_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_play_arrow_black_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_media_route_disabled_mono_dark.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_media_route_disabled_mono_dark.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pause_grey600_24dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_pause_grey600_24dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_forward_10_white_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_forward_10_white_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_skip_previous_white_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_skip_previous_white_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/actionbar_bg.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/actionbar_bg.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_stop_grey600_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_stop_grey600_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_clear_material.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/generated/res/pngs/release/drawable-hdpi/abc_ic_clear_material.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_skip_previous_grey300_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_skip_previous_grey300_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_stop_white_24dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_stop_white_24dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_replay_10_white_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_replay_10_white_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_shuffle_white_36dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_shuffle_white_36dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_closed_caption_grey600_24dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_closed_caption_grey600_24dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_closed_caption_googblue_36dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_closed_caption_googblue_36dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_go_search_api_material.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/generated/res/pngs/release/drawable-hdpi/abc_ic_go_search_api_material.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_light_focused.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_play_circle_grey_64dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_play_circle_grey_64dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_playlist_white_24dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_playlist_white_24dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_radio_off_mtrl.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/generated/res/pngs/release/drawable-hdpi/abc_btn_radio_off_mtrl.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_overflow_material.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/generated/res/pngs/release/drawable-hdpi/abc_ic_menu_overflow_material.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_forward_30_white_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_forward_30_white_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pause_black_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_pause_black_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pause_circle_white_64dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_pause_circle_white_64dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_media_route_on_2_mono_dark.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_cast_on_2_light.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_play_arrow_grey600_36dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_play_arrow_grey600_36dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_cut_material.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/generated/res/pngs/release/drawable-hdpi/abc_ic_menu_cut_material.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_media_route_off_mono_dark.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable-hdpi-v4/ic_media_route_off_mono_dark.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_forward_white_48dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_forward_white_48dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pause_circle_grey_64dp.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/ic_pause_circle_grey_64dp.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/mini_bg_shadow.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi/mini_bg_shadow.png"
+    }
+]

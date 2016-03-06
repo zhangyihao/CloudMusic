@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ccl_pageview_width">500dp</dimen>
+</resources>

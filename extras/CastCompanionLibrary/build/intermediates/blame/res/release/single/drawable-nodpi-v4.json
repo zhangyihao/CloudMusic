@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-nodpi-v4/mini_controller_img_placeholder.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-nodpi/mini_controller_img_placeholder.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-nodpi-v4/album_art_placeholder_large.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-nodpi/album_art_placeholder_large.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-nodpi-v4/album_art_placeholder.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-nodpi/album_art_placeholder.png"
+    }
+]

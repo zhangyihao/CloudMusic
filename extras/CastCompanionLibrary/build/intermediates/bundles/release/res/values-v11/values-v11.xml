@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CCLCastDialog" parent="@android:style/Theme.Holo.Dialog">
+        <item name="android:windowTitleStyle">@style/CCLCastDialogWindowTitle</item>
+    </style>
+    <style name="CCLCastDialogWindowTitle">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@color/ccl_mr_custom_title</item>
+    </style>
+</resources>

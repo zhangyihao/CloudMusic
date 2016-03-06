@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-sw600dp-v13/ic_mini_controller_upcoming_play.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-sw600dp/ic_mini_controller_upcoming_play.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-sw600dp-v13/ic_mini_controller_upcoming_stop.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-sw600dp/ic_mini_controller_upcoming_stop.xml"
+    }
+]

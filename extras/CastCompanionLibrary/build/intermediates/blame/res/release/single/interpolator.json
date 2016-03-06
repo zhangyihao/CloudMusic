@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/interpolator/mr_linear_out_slow_in.xml"
+    }
+]

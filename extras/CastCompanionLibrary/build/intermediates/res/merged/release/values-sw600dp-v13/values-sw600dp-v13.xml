@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_content_inset_material">24dp</dimen>
+    <dimen name="abc_action_bar_default_height_material">64dp</dimen>
+    <dimen name="abc_action_bar_default_padding_end_material">8dp</dimen>
+    <dimen name="abc_action_bar_default_padding_start_material">8dp</dimen>
+    <dimen name="abc_config_prefDialogWidth">580dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <dimen name="ccl_mini_controller_font_size_line1">15sp</dimen>
+    <dimen name="ccl_mini_controller_font_size_line2">13sp</dimen>
+    <dimen name="ccl_mini_controller_icon_height">64dp</dimen>
+    <dimen name="ccl_mini_controller_icon_width">64dp</dimen>
+    <dimen name="ccl_mini_upcoming_play_margin">16dp</dimen>
+    <item name="mr_dialog_fixed_width_major" type="dimen">60%</item>
+    <item name="mr_dialog_fixed_width_minor" type="dimen">90%</item>
+    <integer name="abc_max_action_buttons">5</integer>
+</resources>

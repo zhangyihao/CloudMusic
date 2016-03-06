@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v11/ic_stat_content_remove.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi-v11/ic_stat_content_remove.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v11/ic_stat_action_notification.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi-v11/ic_stat_action_notification.png"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable-hdpi-v11/ic_stat_action_democast.png",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable-hdpi-v11/ic_stat_action_democast.png"
+    }
+]

@@ -1,3 +1,3 @@
 include ':app'
-include ':libs:CastCompanionLibrary'
-project(':libs:CastCompanionLibrary').projectDir = new File('./libs/CastCompanionLibrary/')
+include ':extras:CastCompanionLibrary'
+project(':extras:CastCompanionLibrary').projectDir = new File('./extras/CastCompanionLibrary/')

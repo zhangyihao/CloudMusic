@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_mini_controller_pause.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_mini_controller_play.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_mini_controller_upcoming_play.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_mini_controller_upcoming_play.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/mr_ic_play_light.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable/mr_ic_play_light.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/cast_player_bg_gradient_light.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/cast_player_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_notification_disconnect_24dp.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_notification_disconnect_24dp.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_notification_play_48dp.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_notification_play_48dp.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_notification_play_24dp.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_notification_play_24dp.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/actionbar_bg_gradient_light.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_notification_pause_24dp.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_notification_pause_24dp.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_media_route_controller_play.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_media_route_controller_play.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/mr_ic_media_route_mono_light.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable/mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/mr_ic_close_dark.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable/mr_ic_close_dark.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/mr_ic_media_route_connecting_mono_light.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable/mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_notification_skip_next_semi_48dp.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_notification_skip_next_semi_48dp.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_notification_rewind_48dp.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_notification_rewind_48dp.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/cc.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/cc.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_mini_controller_stop.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/mr_ic_pause_dark.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable/mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_notification_skip_prev_semi_48dp.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_notification_skip_prev_semi_48dp.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_mini_controller_upcoming_stop.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_mini_controller_upcoming_stop.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/progress_drawable.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/progress_drawable.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_notification_stop_24dp.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_notification_stop_24dp.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_collapse.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable/ic_collapse.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_notification_rewind30_48dp.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_notification_rewind30_48dp.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_notification_forward30_48dp.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_notification_forward30_48dp.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/mr_ic_play_dark.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable/mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_media_route_controller_stop.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_media_route_controller_stop.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable/mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/mr_ic_close_light.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable/mr_ic_close_light.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/skip_previous_button.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/skip_previous_button.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/mr_ic_audiotrack_light.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable/mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_notification_stop_48dp.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_notification_stop_48dp.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_notification_forward10_48dp.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_notification_forward10_48dp.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/mr_dialog_material_background_dark.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable/mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/mr_ic_cast_dark.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable/mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/mr_ic_media_route_mono_dark.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable/mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_notification_rewind10_48dp.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_notification_rewind10_48dp.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_notification_forward_48dp.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_notification_forward_48dp.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_notification_skip_next_48dp.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_notification_skip_next_48dp.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_expand.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable/ic_expand.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/mini_gradient_light.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/mini_gradient_light.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_media_route_controller_pause.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_media_route_controller_pause.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/cast_ic_notification_connecting.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/skip_next_button.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/skip_next_button.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_notification_pause_48dp.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_notification_pause_48dp.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/mr_ic_pause_light.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable/mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/mr_dialog_material_background_light.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable/mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/mr_ic_cast_light.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.0/res/drawable/mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "/Respository/CloudMusic/libs/CastCompanionLibrary/build/intermediates/res/merged/release/drawable/ic_notification_skip_prev_48dp.xml",
+        "source": "/Respository/CloudMusic/libs/CastCompanionLibrary/res/drawable/ic_notification_skip_prev_48dp.xml"
+    }
+]
