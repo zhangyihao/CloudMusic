@@ -74,6 +74,10 @@ public abstract class ActionBarCastActivity extends AppCompatActivity {
         }
     };
 
+    /**
+     * Shows the Cast First Time User experience to the user (an overlay that explains what is the Cast icon)、
+     * 第一次加载时向用户展示转换按钮
+     */
     private void showFtu() {
         Menu menu = mToolbar.getMenu();
         View view = menu.findItem(R.id.media_route_menu_item).getActionView();
