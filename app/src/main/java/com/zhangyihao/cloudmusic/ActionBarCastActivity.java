@@ -29,7 +29,20 @@ public abstract class ActionBarCastActivity extends AppCompatActivity {
     private int mItemToOpenWhenDrawerCloses = -1;
 
     private final VideoCastConsumerImpl mCastConsumer = new VideoCastConsumerImpl() {
+        @Override
+        public void onConnected() {
+            super.onConnected();
+        }
 
+        @Override
+        public void onDisconnected() {
+            super.onDisconnected();
+        }
+
+        @Override
+        public void onConnectionSuspended(int cause) {
+            super.onConnectionSuspended(cause);
+        }
     };
 
 }
