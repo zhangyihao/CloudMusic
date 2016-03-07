@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/libs/CastCompanionLibrary/CastCompanionLibrary.iml" filepath="$PROJECT_DIR$/libs/CastCompanionLibrary/CastCompanionLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extras/CastCompanionLibrary/CastCompanionLibrary.iml" filepath="$PROJECT_DIR$/extras/CastCompanionLibrary/CastCompanionLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/CloudMusic.iml" filepath="$PROJECT_DIR$/CloudMusic.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/extras/extras.iml" filepath="$PROJECT_DIR$/extras/extras.iml" />
